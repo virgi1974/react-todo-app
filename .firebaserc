@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "todo-app-fe7de",
+    "staging": "todo-app-fe7de"
+  }
+}

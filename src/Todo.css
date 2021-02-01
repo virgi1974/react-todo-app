@@ -1,0 +1,8 @@
+.todo__list {
+    text-align: center;
+    border: solid;
+    border-radius: 20px;
+    border-color: gray;
+    border-width: 0.5px;
+    margin-bottom: 5px !important;
+}
